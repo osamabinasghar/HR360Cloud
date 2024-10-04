@@ -24,7 +24,7 @@ const Testimonials = () => {
             <blockquote className="mt-10">
               <div className="max-w-3xl mx-auto text-center text-2xl leading-9 font-medium text-gray-900">
                 <p>
-                  &ldquo;"HR360 has transformed how we manage HR in our organization. We can access important employee data from anywhere, anytime, which has been particularly helpful during the pandemic when many of our employees are working remotely. The reporting and analytics features also provide valuable insights into our workforce."&rdquo;
+                  &ldquo;HR360 has transformed how we manage HR in our organization. We can access important employee data from anywhere, anytime, which has been particularly helpful during the pandemic when many of our employees are working remotely. The reporting and analytics features also provide valuable insights into our workforce."&rdquo;
                 </p>
               </div>
               <footer className="mt-8">
