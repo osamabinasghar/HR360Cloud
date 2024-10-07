@@ -32,7 +32,7 @@ export default function Example() {
               <div className="relative pt-64 pb-10 rounded-2xl shadow-xl overflow-hidden">
                 <img
                   className="absolute inset-0 h-full w-full object-cover"
-                  src="https://images.unsplash.com/photo-1521510895919-46920266ddb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100"
+                  src="../../assets/2.jpg"
                   alt=""
                 />
                 <div className="absolute inset-0 bg-indigo-500 mix-blend-multiply" />
@@ -41,7 +41,7 @@ export default function Example() {
                   <div>
                     <img
                       className="h-12"
-                      src="../../assets/logo.svg?color=white"
+                      src="../../assets/logo-white.svg"
                       alt="Workcation"
                     />
                   </div>
