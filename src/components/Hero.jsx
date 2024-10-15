@@ -30,7 +30,7 @@ const Hero = () => {
                         </div>
                         </div>
                         <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                        <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Product</a>
+                        <a href="#about" className="font-medium text-gray-500 hover:text-gray-900">About</a>
 
                         <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Features</a>
 
@@ -38,7 +38,7 @@ const Hero = () => {
 
                         <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Company</a>
 
-                        <a href="#" className="font-medium text-blue-600 hover:text-blue-500">Log in</a>
+                        {/* <a href="#" className="font-medium text-blue-600 hover:text-blue-500">Log in</a> */}
                         </div>
                     </nav>
                     </div>
@@ -67,7 +67,7 @@ const Hero = () => {
 
                         <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Company</a>
                         </div>
-                        <a href="#" className="block w-full px-5 py-3 text-center font-medium text-blue-600 bg-gray-50 hover:bg-gray-100"> Log in </a>
+                        {/* <a href="#" className="block w-full px-5 py-3 text-center font-medium text-blue-600 bg-gray-50 hover:bg-gray-100"> Log in </a> */}
                     </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ const Hero = () => {
                     {/* <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p> */}
                     <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                         <div className="rounded-md shadow">
-                        <a href="#" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 md:py-4 md:text-lg md:px-10"> Get started </a>
+                        <a href="#" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-700 hover:bg-blue-600 md:py-4 md:text-lg md:px-10"> Get started </a>
                         </div>
                         {/* <div className="mt-3 sm:mt-0 sm:ml-3">
                         <a href="#" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 md:py-4 md:text-lg md:px-10"> Live demo </a>

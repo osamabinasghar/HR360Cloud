@@ -3,10 +3,10 @@ import React from 'react'
 const Features = () => {
   return (
     <>
-        <div class="relative bg-white py-16 sm:py-24 lg:py-32">
+        <div class="relative bg-white py-8 sm:py-16 lg:py-24">
             <div class="mx-auto max-w-md px-4 text-center sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
                 {/* <h2 class="text-base font-semibold uppercase tracking-wider text-blue-600">Key Features of HR360Cloud</h2> */}
-                <p class="mt-2 text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">Key Features of HR360Cloud</p>
+                <p class="mt-2 text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">Key Features of <span className='text-blue-600'>HR360Cloud</span></p>
                 <div class="mt-12">
                     <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
                         <div class="pt-6">
